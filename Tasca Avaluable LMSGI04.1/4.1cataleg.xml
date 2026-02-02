@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE cataleg SYSTEM "4.1cataleg.dtd">
+<!DOCTYPE cataleg SYSTEM "cataleg.dtd">
 
 <cataleg>
 
@@ -86,3 +86,4 @@
 
 
 </cataleg>
+
