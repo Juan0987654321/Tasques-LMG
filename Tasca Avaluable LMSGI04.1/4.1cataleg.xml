@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cataleg SYSTEM "cataleg.dtd">
+
+<cataleg>
+
+    <single codi="S001">
+        <titol>Imagine</titol>
+        <descripcio>Single famós de John Lennon</descripcio>
+        <pais>Regne Unit</pais>
+        <idioma>Anglès</idioma>
+        <genere><pop/></genere>
+        <grup>John Lennon</grup>
+        <membres>
+            <membre sexe="home">
+                <nom>John Lennon</nom>
+            </membre>
+        </membres>
+        <durada>3.1</durada>
+    </single>
+
+    <single codi="S002">
+        <titol>Halo</titol>
+        <pais>Estats Units</pais>
+        <idioma>Anglès</idioma>
+        <genere><pop/></genere>
+        <genere><soul/></genere>
+        <grup>Beyoncé</grup>
+        <membres>
+            <membre sexe="dona">
+                <nom>Beyoncé Knowles</nom>
+            </membre>
+        </membres>
+        <durada>4.2</durada>
+    </single>
+
+ 
+    <album codi="A001">
+        <titol>Thriller</titol>
+        <descripcio>Àlbum més venut de Michael Jackson</descripcio>
+        <pais>Estats Units</pais>
+        <idioma>Anglès</idioma>
+        <genere><pop/></genere>
+        <genere><soul/></genere>
+        <grup>Michael Jackson</grup>
+        <membres>
+            <membre sexe="home">
+                <nom>Michael Jackson</nom>
+            </membre>
+        </membres>
+        <numero_cancons>2</numero_cancons>
+        <titols_cancons>
+            <canco numero="1">
+                <titol_canco>Thriller</titol_canco>
+                <durada_canco>5.57</durada_canco>
+            </canco>
+            <canco numero="2">
+                <titol_canco>Beat It</titol_canco>
+                <durada_canco>4.18</durada_canco>
+            </canco>
+        </titols_cancons>
+    </album>
+
+    <album codi="A002">
+        <titol>25</titol>
+        <pais>Regne Unit</pais>
+        <idioma>Anglès</idioma>
+        <genere><pop/></genere>
+        <grup>Adele</grup>
+        <membres>
+            <membre sexe="dona">
+                <nom>Adele Adkins</nom>
+            </membre>
+        </membres>
+        <numero_cancons>2</numero_cancons>
+        <titols_cancons>
+            <canco numero="1">
+                <titol_canco>Hello</titol_canco>
+                <durada_canco>4.55</durada_canco>
+            </canco>
+            <canco numero="2">
+                <titol_canco>Send My Love</titol_canco>
+                <durada_canco>3.43</durada_canco>
+            </canco>
+        </titols_cancons>
+    </album>
+
+</cataleg>
