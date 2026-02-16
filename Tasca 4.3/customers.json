@@ -1,0 +1,43 @@
+{
+  "customer": [
+    {
+      "cust_id": 1,
+      "fed_id": "111-22-333",
+      "type": "individual",
+      "address": "Carrer Major 15",
+      "city": "Boston",
+      "postal_code": "02108",
+      "state": "MA",
+      "first_name_ind": "Joan",
+      "last_name_ind": "Garcia",
+      "birth_date": "1985-05-12"
+    },
+    {
+      "cust_id": 10,
+      "fed_id": "99-888777",
+      "type": "business",
+      "address": "Industrial Way 45",
+      "city": "New York",
+      "postal_code": "10001",
+      "state": "NY",
+      "name": "Tech Solutions Inc",
+      "state_id": "NY-9901",
+      "incorp_date": "2010-01-20",
+      "officer": [
+        {
+          "officer_id": 101,
+          "first_name_off": "Anna",
+          "last_name_off": "Smith",
+          "start_date": "2010-01-20",
+          "title": "CEO"
+        },
+        {
+          "officer_id": 102,
+          "first_name_off": "Pere",
+          "last_name_off": "Vila",
+          "title": "President"
+        }
+      ]
+    }
+  ]
+}
