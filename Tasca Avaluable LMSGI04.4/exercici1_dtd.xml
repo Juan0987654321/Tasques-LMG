@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cifp SYSTEM "cifp.dtd">
+<cifp>
+    <alumne id="1">
+        <nom>Joan</nom>
+        <llinatges>García</llinatges>
+        <data_matricula>2023-09-01</data_matricula>
+        <curs>DAM</curs>
+    </alumne>
+    <professor id="100">
+        <nom>Marta</nom>
+        <llinatges>Sastre</llinatges>
+        <data_incorporació>2010-01-15</data_incorporació>
+        <departament>Informàtica</departament>
+        <assignatura id_assignatura="50">
+            <nom_assignatura cicle="DAW">Programació Web</nom_assignatura>
+        </assignatura>
+    </professor>
+</cifp>

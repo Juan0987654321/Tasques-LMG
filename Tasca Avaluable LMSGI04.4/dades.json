@@ -1,0 +1,37 @@
+{
+  "$schema": "./cifp_schema.json",
+  "cifp": {
+    "alumne": [
+      {
+        "id": 1,
+        "nom": "Joan",
+        "llinatges": "García",
+        "data_matricula": "2023-09-01",
+        "curs": "DAM"
+      },
+      {
+        "id": 10,
+        "nom": "Maria",
+        "llinatges": "Pons",
+        "data_matricula": "2023-09-12",
+        "curs": "SMX"
+      }
+    ],
+    "professor": [
+      {
+        "id": 100,
+        "nom": "Marta",
+        "llinatges": "Sastre",
+        "data_incorporació": "2010-01-15",
+        "departament": "Informàtica",
+        "assignatura": [
+          {
+            "id_assignatura": 50,
+            "nom_assignatura": "Programació Web",
+            "cicle": "DAW"
+          }
+        ]
+      }
+    ]
+  }
+}

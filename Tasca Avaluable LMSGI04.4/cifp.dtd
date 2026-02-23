@@ -1,0 +1,25 @@
+<!ELEMENT cifp (alumne | professor)*>
+
+<!ELEMENT alumne (nom, llinatges, data_naixement?, correu?, telefon?, adreça?, data_matricula, curs)>
+<!ATTLIST alumne id NMTOKEN #REQUIRED>
+
+<!ELEMENT nom (#PCDATA)>
+<!ELEMENT llinatges (#PCDATA)>
+<!ELEMENT data_naixement (#PCDATA)>
+<!ELEMENT correu (#PCDATA)>
+<!ELEMENT telefon (#PCDATA)>
+<!ELEMENT adreça (#PCDATA)>
+<!ELEMENT data_matricula (#PCDATA)>
+<!ELEMENT curs (#PCDATA)>
+
+<!ELEMENT professor (nom, llinatges, data_naixement?, correu?, telefon?, adreça?, data_incorporació, departament, assignatura*)>
+<!ATTLIST professor id NMTOKEN #REQUIRED>
+
+<!ELEMENT data_incorporació (#PCDATA)>
+<!ELEMENT departament (#PCDATA)>
+
+<!ELEMENT assignatura (nom_assignatura, data_inici?, data_final?)>
+<!ATTLIST assignatura id_assignatura NMTOKEN #REQUIRED>
+
+<!ELEMENT nom_assignatura (#PCDATA)>
+<!ATTLIST nom_assignatura cicle (DAM|DAW|ASIX|SMX|SEIA|ER|AUT) #REQUIRED>
