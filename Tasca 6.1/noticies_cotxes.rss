@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Notícies sobre cotxes</title>
+        <description>ÚLTIMES NOTÍCIES SOBRE EL MÓN DEL MOTOR</description>
+        <link>https://www.motornews.com/</link>
+        <language>ca</language>
+        <pubDate>Fri, 15 Nov 2024 12:00:00 +0100</pubDate>
+
+        <item>
+            <title>Ferrari presenta el seu nou model híbrid, el SF-2024</title>
+            <description>Ferrari ha anunciat el llançament del seu nou model híbrid, el SF-2024, que combina rendiment i sostenibilitat. Amb un motor V8 de 800 CV i un sistema elèctric de suport, és el cotxe més avançat de la marca fins ara.</description>
+            <link>https://www.motornews.com/ferrari-sf-2024-hibrid</link>
+            <guid>https://www.motornews.com/ferrari-sf-2024-hibrid</guid>
+            <pubDate>Thu, 14 Nov 2024 10:00:00 +0100</pubDate>
+        </item>
+
+        <item>
+            <title>Volkswagen anuncia una inversió de 10.000 milions en vehicles elèctrics</title>
+            <description>La companyia Volkswagen ha anunciat una inversió massiva en el desenvolupament de vehicles elèctrics. El pla preveu la creació de tres nous models elèctrics per al 2025.</description>
+            <link>https://www.motornews.com/volkswagen-investment-electric-cars</link>
+            <guid>https://www.motornews.com/volkswagen-investment-electric-cars</guid>
+            <pubDate>Tue, 12 Nov 2024 15:30:00 +0100</pubDate>
+        </item>
+    </channel>
+</rss>
