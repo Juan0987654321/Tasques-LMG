@@ -1,0 +1,1 @@
+max(collection("capo")//empleat/edat/xs:integer(.))

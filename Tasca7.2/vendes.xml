@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleats>
+   <empleat>
+      <nom>Pep</nom>
+      <llinatges>Pérez</llinatges>
+      <edat>23</edat>
+      <salari>20000</salari>      
+   </empleat>
+   <empleat>
+      <nom>Jaume</nom>
+      <llinatges>Calafat</llinatges>
+      <edat>24</edat>
+      <salari>21000</salari>      
+   </empleat>
+   <empleat>
+      <nom>Aina</nom>
+      <llinatges>Coll</llinatges>
+      <edat>25</edat>
+      <salari>22000</salari>
+   </empleat>
+   <empleat>
+      <nom>Sofia</nom>
+      <llinatges>Fernández</llinatges>
+      <edat>28</edat>
+      <salari>28000</salari>
+   </empleat>
+</empleats>

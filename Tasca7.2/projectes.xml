@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleats>
+   <empleat>
+      <nom>Maria</nom>
+      <llinatges>Pons</llinatges>
+      <edat>44</edat>
+      <salari>40000</salari>      
+   </empleat>
+   <empleat>
+      <nom>Tomeu</nom>
+      <llinatges>Alcover</llinatges>
+      <edat>30</edat>
+      <salari>31000</salari>      
+   </empleat>
+   <empleat>
+      <nom>Pere</nom>
+      <llinatges>Pons</llinatges>
+      <edat>28</edat>
+      <salari>25000</salari>
+   </empleat>
+</empleats>

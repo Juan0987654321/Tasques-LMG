@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empleats>
+   <empleat>
+      <nom>Joana</nom>
+      <llinatges>Garau</llinatges>
+      <edat>50</edat>
+      <salari>50000</salari>      
+   </empleat>
+   <empleat>
+      <nom>Toni</nom>
+      <llinatges>Garcia</llinatges>
+      <edat>38</edat>
+      <salari>25000</salari>      
+   </empleat>
+</empleats>
