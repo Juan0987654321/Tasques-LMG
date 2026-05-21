@@ -1,0 +1,327 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee emp_id="1">
+    <end_date>NULL</end_date>
+    <first_name>Michael</first_name>
+    <last_name>Smith</last_name>
+    <start_date>2001-06-22</start_date>
+    <title>President</title>
+    <superior_emp_id>NULL</superior_emp_id>
+    <department department_id="3">
+      <department_name>Administration</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="2">
+    <end_date>NULL</end_date>
+    <first_name>Susan</first_name>
+    <last_name>Barker</last_name>
+    <start_date>2002-09-12</start_date>
+    <title>Vice President</title>
+    <superior_emp_id>1</superior_emp_id>
+    <department department_id="3">
+      <department_name>Administration</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="3">
+    <end_date>NULL</end_date>
+    <first_name>Robert</first_name>
+    <last_name>Tyler</last_name>
+    <start_date>2000-02-09</start_date>
+    <title>Treasurer</title>
+    <superior_emp_id>1</superior_emp_id>
+    <department department_id="3">
+      <department_name>Administration</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="4">
+    <end_date>NULL</end_date>
+    <first_name>Susan</first_name>
+    <last_name>Hawthorne</last_name>
+    <start_date>2002-04-24</start_date>
+    <title>Operations Manager</title>
+    <superior_emp_id>3</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="5">
+    <end_date>NULL</end_date>
+    <first_name>John</first_name>
+    <last_name>Gooding</last_name>
+    <start_date>2003-11-14</start_date>
+    <title>Loan Manager</title>
+    <superior_emp_id>4</superior_emp_id>
+    <department department_id="2">
+      <department_name>Loans</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="6">
+    <end_date>NULL</end_date>
+    <first_name>Helen</first_name>
+    <last_name>Fleming</last_name>
+    <start_date>2004-03-17</start_date>
+    <title>Head Teller</title>
+    <superior_emp_id>4</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="7">
+    <end_date>NULL</end_date>
+    <first_name>Chris</first_name>
+    <last_name>Tucker</last_name>
+    <start_date>2004-09-15</start_date>
+    <title>Teller</title>
+    <superior_emp_id>6</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="8">
+    <end_date>NULL</end_date>
+    <first_name>Sarah</first_name>
+    <last_name>Parker</last_name>
+    <start_date>2002-12-02</start_date>
+    <title>Teller</title>
+    <superior_emp_id>6</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="9">
+    <end_date>NULL</end_date>
+    <first_name>Jane</first_name>
+    <last_name>Grossman</last_name>
+    <start_date>2002-05-03</start_date>
+    <title>Teller</title>
+    <superior_emp_id>6</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="1">
+      <assigned_branch_name>Headquarters</assigned_branch_name>
+      <assigned_branch_address>3882 Main St.</assigned_branch_address>
+      <assigned_branch_city>Waltham</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02451</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="10">
+    <end_date>NULL</end_date>
+    <first_name>Paula</first_name>
+    <last_name>Roberts</last_name>
+    <start_date>2002-07-27</start_date>
+    <title>Head Teller</title>
+    <superior_emp_id>4</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="2">
+      <assigned_branch_name>Woburn Branch</assigned_branch_name>
+      <assigned_branch_address>422 Maple St.</assigned_branch_address>
+      <assigned_branch_city>Woburn</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>01801</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="11">
+    <end_date>NULL</end_date>
+    <first_name>Thomas</first_name>
+    <last_name>Ziegler</last_name>
+    <start_date>2000-10-23</start_date>
+    <title>Teller</title>
+    <superior_emp_id>10</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="2">
+      <assigned_branch_name>Woburn Branch</assigned_branch_name>
+      <assigned_branch_address>422 Maple St.</assigned_branch_address>
+      <assigned_branch_city>Woburn</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>01801</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="12">
+    <end_date>NULL</end_date>
+    <first_name>Samantha</first_name>
+    <last_name>Jameson</last_name>
+    <start_date>2003-01-08</start_date>
+    <title>Teller</title>
+    <superior_emp_id>10</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="2">
+      <assigned_branch_name>Woburn Branch</assigned_branch_name>
+      <assigned_branch_address>422 Maple St.</assigned_branch_address>
+      <assigned_branch_city>Woburn</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>01801</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="13">
+    <end_date>NULL</end_date>
+    <first_name>John</first_name>
+    <last_name>Blake</last_name>
+    <start_date>2000-05-11</start_date>
+    <title>Head Teller</title>
+    <superior_emp_id>4</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="3">
+      <assigned_branch_name>Quincy Branch</assigned_branch_name>
+      <assigned_branch_address>125 Presidential Way</assigned_branch_address>
+      <assigned_branch_city>Quincy</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02169</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="14">
+    <end_date>NULL</end_date>
+    <first_name>Cindy</first_name>
+    <last_name>Mason</last_name>
+    <start_date>2002-08-09</start_date>
+    <title>Teller</title>
+    <superior_emp_id>13</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="3">
+      <assigned_branch_name>Quincy Branch</assigned_branch_name>
+      <assigned_branch_address>125 Presidential Way</assigned_branch_address>
+      <assigned_branch_city>Quincy</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02169</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="15">
+    <end_date>NULL</end_date>
+    <first_name>Frank</first_name>
+    <last_name>Portman</last_name>
+    <start_date>2003-04-01</start_date>
+    <title>Teller</title>
+    <superior_emp_id>13</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="3">
+      <assigned_branch_name>Quincy Branch</assigned_branch_name>
+      <assigned_branch_address>125 Presidential Way</assigned_branch_address>
+      <assigned_branch_city>Quincy</assigned_branch_city>
+      <assigned_branch_state>MA</assigned_branch_state>
+      <assigned_branch_zip_code>02169</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="16">
+    <end_date>NULL</end_date>
+    <first_name>Theresa</first_name>
+    <last_name>Markham</last_name>
+    <start_date>2001-03-15</start_date>
+    <title>Head Teller</title>
+    <superior_emp_id>4</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="4">
+      <assigned_branch_name>So. NH Branch</assigned_branch_name>
+      <assigned_branch_address>378 Maynard Ln.</assigned_branch_address>
+      <assigned_branch_city>Salem</assigned_branch_city>
+      <assigned_branch_state>NH</assigned_branch_state>
+      <assigned_branch_zip_code>03079</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="17">
+    <end_date>NULL</end_date>
+    <first_name>Beth</first_name>
+    <last_name>Fowler</last_name>
+    <start_date>2002-06-29</start_date>
+    <title>Teller</title>
+    <superior_emp_id>16</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="4">
+      <assigned_branch_name>So. NH Branch</assigned_branch_name>
+      <assigned_branch_address>378 Maynard Ln.</assigned_branch_address>
+      <assigned_branch_city>Salem</assigned_branch_city>
+      <assigned_branch_state>NH</assigned_branch_state>
+      <assigned_branch_zip_code>03079</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+  <employee emp_id="18">
+    <end_date>NULL</end_date>
+    <first_name>Rick</first_name>
+    <last_name>Tulman</last_name>
+    <start_date>2002-12-12</start_date>
+    <title>Teller</title>
+    <superior_emp_id>16</superior_emp_id>
+    <department department_id="1">
+      <department_name>Operations</department_name>
+    </department>
+    <assigned_branch assigned_branch_id="4">
+      <assigned_branch_name>So. NH Branch</assigned_branch_name>
+      <assigned_branch_address>378 Maynard Ln.</assigned_branch_address>
+      <assigned_branch_city>Salem</assigned_branch_city>
+      <assigned_branch_state>NH</assigned_branch_state>
+      <assigned_branch_zip_code>03079</assigned_branch_zip_code>
+    </assigned_branch>
+  </employee>
+</employees>
